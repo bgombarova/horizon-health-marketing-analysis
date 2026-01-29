@@ -1,4 +1,4 @@
-# Horizon Health Analysis 
+# Horizon Health Marketing Analysis 
 <p align="center">
   <img src="assets/horizon_health_logo.png" width="636.5" height="350" alt="Horizon Health Logo">
 </p>
