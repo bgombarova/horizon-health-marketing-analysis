@@ -147,13 +147,13 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 # Presentation Sample
 The presentation created for the marketing team, which walks through the insights and recommendations above, can be found **[here](https://docs.google.com/presentation/d/11D0CdsNwgcWSePTMpzxpdVTaCY20sBRz/edit?usp=sharing&ouid=102768886755895577608&rtpof=true&sd=true)**. For the best image quality, download the file as a PPTX from Google Slides and open it in Microsoft PowerPoint. Selected slides are presented below for easy viewing.
 <p align="center">
-  <img src="assets/slide_sample_ctr_performance.png" width="799" height="417" alt="Horizon Health Presentation Thumbnail">
+  <img src="assets/presentation_preview/slide_sample_ctr_performance.png" width="799" height="417" alt="Horizon Health Presentation Thumbnail">
 </p>
 
 <p align="center">
-  <img src="assets/slide_sample_strategic_recommendations.png" width="799" height="417" alt="Horizon Health Recommendations Thumbnail">
+  <img src="assets/presentation_preview/slide_strategic_recommendations.png" width="799" height="417" alt="Horizon Health Recommendations Thumbnail">
 </p>
 
 <p align="center">
-  <img src="assets/slide_sample_technical_process.png" width="799" height="417" alt="Horizon Health Technical Process Thumbnail">
+  <img src="assets/presentation_preview/slide_technical_process.png" width="799" height="417" alt="Horizon Health Technical Process Thumbnail">
 </p>
